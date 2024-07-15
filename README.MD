@@ -14,8 +14,8 @@ Outfito is an AI-driven fashion recommendation system tailored for travelers. It
 Here's a quick demo of how Outfito works:
 
 
-![Demo 2](static/images/demo2.png)
+![Demo 2](static/images/demo2.png)<br>
 
-![Demo 1](static/images/demo1.jpg)
+![Demo 1](static/images/demo1.jpg) ![Demo 3](static/images/demo3.jpg)
 
-![Demo 3](static/images/demo3.jpg)
+
