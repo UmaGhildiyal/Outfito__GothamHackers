@@ -19,3 +19,21 @@ Here's a quick demo of how Outfito works:
 ![Demo 1](static/images/demo1.jpg) ![Demo 3](static/images/demo3.jpg)
 
 
+## Installation
+
+To get started with **Outfito**, follow these steps:
+
+### Prerequisites
+
+1. **Python:** Make sure you have Python installed. You can download it from [python.org](https://www.python.org/downloads/).
+
+2. **Git:** Ensure Git is installed on your system. You can download it from [git-scm.com](https://git-scm.com/downloads).
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/UmaGhildiyal/Outfito__GothamHackers.git
+cd Outfito__GothamHackers
+
+
+
