@@ -9,3 +9,12 @@ Outfito is an AI-driven fashion recommendation system tailored for travelers. It
 - **AI-Powered Image Recognition:** Utilizes deep learning models for accurate identification of fashion styles and items from user-provided images or Pinterest inspirations.
 - **Pinterest Integration:** Leverages Pinterest API to fetch and analyze fashion trends and styles based on destination keywords or user inputs.
 - **Myntra Integration:** Direct integration with Myntra's catalog enables users to view and purchase recommended outfits and accessories effortlessly.
+
+## Demo
+Here's a quick demo of how Outfito works:
+
+![Demo 1](static/images/demo1.png)
+
+![Demo 2](static/images/demo2.png)
+
+![Demo 3](static/images/demo3.png)
