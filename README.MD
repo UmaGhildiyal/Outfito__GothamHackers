@@ -1,1 +1,4 @@
+# Outfito - AI-Driven Fashion Recommendation System
+
 <img src="https://socialify.git.ci/UmaGhildiyal/Outfito__GothamHackers/image?description=1&descriptionEditable=Your%20wardrobe%20just%20got%20a%20whole%20lot%20cooler.&font=Jost&language=1&name=1&stargazers=1&theme=Dark" alt="Outfito__GothamHackers" width="640" height="320" />
+
